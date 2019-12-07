@@ -1,0 +1,8 @@
+src
+test
+*.log
+tsconfig.json
+webpack.config.js
+.babelrc
+.gitignore
+.npmrc
